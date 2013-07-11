@@ -39,8 +39,8 @@
 		3DE4B5F0178E9E1800991C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		3DE4B5F2178E9E1800991C6E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3DE4B5F3178E9E1800991C6E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		3DE4B5FA178E9E2D00991C6E /* PDFPrintPageRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDFPrintPageRenderer.h; sourceTree = "<group>"; };
-		3DE4B5FB178E9E2D00991C6E /* PDFPrintPageRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDFPrintPageRenderer.m; sourceTree = "<group>"; };
+		3DE4B5FA178E9E2D00991C6E /* PDFPrintPageRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PDFPrintPageRenderer.h; path = ../PDFPrintPageRenderer.h; sourceTree = "<group>"; };
+		3DE4B5FB178E9E2D00991C6E /* PDFPrintPageRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PDFPrintPageRenderer.m; path = ../PDFPrintPageRenderer.m; sourceTree = "<group>"; };
 		3DE4B5FD178EA29600991C6E /* HTML2PDF.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HTML2PDF.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -308,6 +308,7 @@
 				3DE4B5F9178E9E1800991C6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

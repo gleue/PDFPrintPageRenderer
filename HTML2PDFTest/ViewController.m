@@ -3,7 +3,7 @@
 //  HTML2PDFTest
 //
 //  Created by Tim Gleue on 11.07.13.
-//  Copyright (c) 2013 Tim Gleue. All rights reserved.
+//  Copyright (c) 2013 Tim Gleue • interactive software. All rights reserved.
 //
 
 #import "ViewController.h"
